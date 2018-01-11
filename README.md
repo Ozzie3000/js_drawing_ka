@@ -7,3 +7,6 @@ Examples:
 Elipses
 Rectangles
 Lines 
+
+elipse(i,i,i,i);
+elipse(x, y, width, height);
